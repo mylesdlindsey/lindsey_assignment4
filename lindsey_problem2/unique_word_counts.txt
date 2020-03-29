@@ -1,0 +1,5 @@
+chicken 2
+officer 1
+yellow 1
+crazy 2
+juice 1
